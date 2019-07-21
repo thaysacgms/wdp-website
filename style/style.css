@@ -304,15 +304,21 @@ font-size: 40px;
         display:flex;
         align-items: center;
     }
+
+    .woman {
+        width:200px;
+    }
     
     .menu li {
        display:inline-block;
        margin-left: 60px;
         
     }
-
+    .title-img {
+        justify-content: space-between;
+    }
     .main-title {
-        font-size: 50px;
+        font-size: 60px;
         margin-right:10%;
     }
 
